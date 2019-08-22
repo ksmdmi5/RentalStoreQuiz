@@ -45,7 +45,6 @@ public class RentalStoreQuizApp {
 	}
 
 	public Customer createCustomer(String fn, String ln) {
-		// TODO: implement the method
 		return null;
 	}
 
